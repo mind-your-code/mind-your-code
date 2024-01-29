@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mind-your-code
+- 👀 I’m interested in Python, AI, ML, Gen AI
+- 🌱 I’m currently exploring Gen AI
+- 📫 How to reach me contact.mindyourcode@gmail.com
